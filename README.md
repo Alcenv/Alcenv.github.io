@@ -49,7 +49,7 @@ h2 {
 
 # Ingeniero de Sistemas
 
-<img src="[C:\Users\omale\OneDrive\Imágenes\FOTO PERFIL UNAD.jpeg](https://media.licdn.com/dms/image/D4E03AQHg4Dfn_Jzwzw/profile-displayphoto-shrink_400_400/0/1678855140823?e=1686182400&v=beta&t=0ZpA5MeUPcyVADu8_z_XCujzov9veCILLXIdc7_XRUw)" alt="Imagen del Ingeniero de Sistemas">
+<img src="\Imágenes\FOTO PERFIL UNAD.jpeg">
 
 ## <span style="color:#0077cc">Perfil</span>
 
