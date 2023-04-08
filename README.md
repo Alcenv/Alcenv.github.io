@@ -50,7 +50,7 @@
 </style>
 
 <div class="profile">
-  <img src="file:///C:/Users/omale/OneDrive/Imágenes/FOTO%20PERFIL%20UNAD.jpeg" alt="Imagen del Ingeniero de Sistemas">
+  <img src="C:\Users\omale\OneDrive\Imágenes\flujo caja.png" alt="Imagen del Ingeniero de Sistemas">
   <h1>Ingeniero de Sistemas</h1>
   <h2>Perfil</h2>
   <p>Soy un ingeniero de sistemas apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos desafiantes que me permitan aplicar mis conocimientos y habilidades para encontrar soluciones creativas y eficientes.</p>
