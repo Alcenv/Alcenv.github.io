@@ -56,7 +56,7 @@
   <p>Soy un ingeniero de sistemas apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos desafiantes que me permitan aplicar mis conocimientos y habilidades para encontrar soluciones creativas y eficientes.</p>
   <h2>Contacto</h2>
   <ul>
-    <li>Correo electrónico: <a href="mailto:omalejo221@gmail.com">correo electrónico</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-cendales-144271228/">Alejandro Cendales</a></li>
+    <li>Correo electrónico: <a href="mailto:omalejo221@gmail.com">omalejo221@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-cendales-144271228/">Alcenv</a></li>
   </ul>
 </div>
