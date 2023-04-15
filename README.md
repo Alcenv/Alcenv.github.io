@@ -1,4 +1,4 @@
-# Alejandro Cendales
+# Hola 👋, soy Alejandro Cendales
 ---
 
 <p align="center">
@@ -7,14 +7,10 @@
 
 \
 
+## Perfil
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cendales-144271228/ "Linkedin profile")
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alcenv "Github profile")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omalejo221@gmail.com "Gmail profile")
-
-📞 (123) 456-7890
- :iphone:
-
-## Perfil
 
 ---
 
@@ -61,7 +57,9 @@ Universidad de los Llanos:**
 
 ---
 ## Contacto
-
+📞 3014464740
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573058658803 "WhatsApp")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omalejo221@gmail.com "Gmail profile")
 
    Gmail:     [nicolax0608@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQhSMNSWGRtZZPRCvDwvpXVLrfSvKlpMCdsVbTFbmcDLslScMJLNCWGHHFhgtRQGZWVrS "mail") 
    \
