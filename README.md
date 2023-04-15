@@ -1,3 +1,6 @@
+#Alejandro Cendales
+<img src="https://ejemplo.com/ruta/a/la/imagen.jpg" alt="Descripción de la imagen" width="500" height="300" border="1" align="left">
+
 \
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vanegas-ab492626a/ "Linkedin profile")
