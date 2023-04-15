@@ -48,6 +48,7 @@ Fundación Cooperen**
    Coordinar personal para recolección de formularios E-14 en elecciones (alcaldía y presidencia). Asistencia a los distintos municipios del departamento del Meta. 
    
  - **Jun 2022 - Jul 2022, Soporte técnico escrutinio (software), UT Disproel**
+ 
    Prestar soporte técnico al software para la realización de escrutinio, elecciones presidenciales en Colombia. Soporte mesa de escrutinio Castilla la Nueva (Meta).
 
 - **Actualmente, Pasante en el grupo Mandelbrot**
@@ -69,6 +70,6 @@ Fundación Cooperen**
 ---
 
 ## Contacto
-📞 3014464740
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573058658803 "WhatsApp")
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omalejo221@gmail.com "Gmail")
+- 📞 3014464740
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573058658803 "WhatsApp")
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omalejo221@gmail.com "Gmail")
