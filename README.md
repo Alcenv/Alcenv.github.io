@@ -2,7 +2,6 @@
 
 <figure style="border: 1px solid #ccc; padding: 10px; background-color: #f5f5f5;">
   <img src="FOTO.jpeg" alt="Descripción de la imagen" width="500" height="300" style="box-shadow: 0 0 10px rgba(0,0,0,0.3);">
-  <figcaption>Descripción detallada de la imagen</figcaption>
 </figure>
 
 \
