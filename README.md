@@ -48,9 +48,9 @@
     text-decoration: underline;
   }
 </style>
-
 <div class="profile">
   <img src="FOTO.jpeg">
+</div>
   <h1 align="center">Hola 👋, soy Alejandro Cendales</h1>
   <p align="left">
 <a href="https://linkedin.com/in/alejandro cendales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro cendales" height="30" width="40" /></a>
@@ -61,7 +61,4 @@
   <ul>
     <li><a href="mailto:omalejo221@gmail.com">Correo electrónico:</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-cendales-144271228/"></a></li>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alcenv "Github profile")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cendales-144271228/ "Linkedin profile")
   </ul>
-</div>
