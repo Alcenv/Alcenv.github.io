@@ -51,6 +51,7 @@
 
 <div class="profile">
   <img src="FOTO.jpeg">
+/
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alcenv "Github profile")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cendales-144271228/ "Linkedin profile")
   <h1>Ingeniero de Sistemas</h1>
