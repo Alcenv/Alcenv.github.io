@@ -51,12 +51,12 @@
 
 <div class="profile">
   <img src="FOTO.jpeg">
-  <h1>Ingeniero de Sistemas</h1>
+  <h1 align="center">Hola 👋, soy Alejandro Cendales</h1>
   <p align="left">
 <a href="https://linkedin.com/in/alejandro cendales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro cendales" height="30" width="40" /></a>
 </p>
   <h2>Perfil</h2>
-  <p>Soy un ingeniero de sistemas apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos desafiantes que me permitan aplicar mis conocimientos y habilidades para encontrar soluciones creativas y eficientes.</p>
+  <p>Soy un estudiante de ultimo semestre de ingeniero de sistemas apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos desafiantes que me permitan aplicar mis conocimientos y habilidades para encontrar soluciones creativas y eficientes.</p>
   <h2>Contacto</h2>
   <ul>
     <li><a href="mailto:omalejo221@gmail.com">Correo electrónico:</a></li>
