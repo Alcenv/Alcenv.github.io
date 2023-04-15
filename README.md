@@ -1,5 +1,9 @@
 #Alejandro Cendales
-<img src="https://ejemplo.com/ruta/a/la/imagen.jpg" alt="Descripción de la imagen" width="500" height="300" border="1" align="left">
+
+<figure style="border: 1px solid #ccc; padding: 10px; background-color: #f5f5f5;">
+  <img src="FOTO.jpeg" alt="Descripción de la imagen" width="500" height="300" style="box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <figcaption>Descripción detallada de la imagen</figcaption>
+</figure>
 
 \
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
