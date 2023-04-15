@@ -1,15 +1,18 @@
-#Alejandro Cendales
+# Alejandro Cendales
 ---
 
 <p align="center">
-  <img src="FOTO.jpeg" alt="Descripción de la imagen" width="500" height="300" style="border: 1px solid black;">
+  <img src="FOTO.jpeg" alt="" width="500" height="300" style="border: 1px solid black;">
 </p>
 
 \
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vanegas-ab492626a/ "Linkedin profile")
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cendales-144271228/ "Linkedin profile")
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alcenv "Github profile")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omalejo221@gmail.com "Gmail profile")
 
+📞 (123) 456-7890
+ :iphone:
 
 ## Perfil
 
