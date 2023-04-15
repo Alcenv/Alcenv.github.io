@@ -5,7 +5,6 @@
   <img src="FOTO.jpeg" alt="" width="500" height="300" style="border: 1px solid black;">
 </p>
 
-\
 ---
 
 ## Perfil
