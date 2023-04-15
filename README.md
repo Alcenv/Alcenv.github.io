@@ -1,8 +1,9 @@
 #Alejandro Cendales
+---
 
-<figure style="border: 1px solid #ccc; padding: 10px; background-color: #f5f5f5;">
-  <img src="FOTO.jpeg" alt="Descripción de la imagen" width="500" height="300" style="box-shadow: 0 0 10px rgba(0,0,0,0.3);">
-</figure>
+<p align="center">
+  <img src="FOTO.jpeg" alt="Descripción de la imagen" width="500" height="300" style="border: 1px solid black;">
+</p>
 
 \
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
