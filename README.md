@@ -51,9 +51,6 @@
 
 <div class="profile">
   <img src="FOTO.jpeg">
-/
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alcenv "Github profile")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cendales-144271228/ "Linkedin profile")
   <h1>Ingeniero de Sistemas</h1>
   <h2>Perfil</h2>
   <p>Soy un ingeniero de sistemas apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos desafiantes que me permitan aplicar mis conocimientos y habilidades para encontrar soluciones creativas y eficientes.</p>
@@ -61,5 +58,7 @@
   <ul>
     <li><a href="mailto:omalejo221@gmail.com">Correo electrónico:</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-cendales-144271228/"></a></li>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alcenv "Github profile")
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cendales-144271228/ "Linkedin profile")
   </ul>
 </div>
