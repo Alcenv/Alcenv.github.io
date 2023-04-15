@@ -29,7 +29,7 @@ Soy un estudiante de último semestre de ingeniera de sistemas con una pasión p
 - Año de graduación: 2022
 
 ### Universidad Nacional Abierta y a Distancia 
-- Carrera: Ingeniería de Sistemas
+- Ingeniería de Sistemas
 - Año de graduación: 2023
 
 ---
