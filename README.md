@@ -15,7 +15,7 @@
 
 ### Sobre mí
 
-Soy un estudiante de último semestre de ingeniera de sistemas con una pasión por el desarrollo de software y una gran capacidad para aprender y adaptarme rápidamente a nuevas tecnologías. Mi experiencia en proyectos académicos me ha permitido desarrollar habilidades en lenguajes como Java, Python, HTML, así como en frameworks y librerías como Django. 
+Soy un ingeniero de sistemas recién graduado con una pasión por el desarrollo de software y una gran capacidad para aprender y adaptarme rápidamente a nuevas tecnologías. Mi experiencia en proyectos académicos me ha permitido desarrollar habilidades en lenguajes como Java, Python, HTML, así como en frameworks y librerías como Django. 
 
 ---
 ## Educación
