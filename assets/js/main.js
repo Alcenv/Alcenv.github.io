@@ -183,7 +183,7 @@ document.getElementById("sendMessageButton").addEventListener("click", function(
     });
   
     
-    alert("Message sent successfully!");
+    alert("¡Message sent successfully!");
   });
   
   
