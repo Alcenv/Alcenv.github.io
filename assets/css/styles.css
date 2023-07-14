@@ -429,7 +429,11 @@ img {
 
 .about__buttons{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
+}
+
+.about__buttons a {
+  margin-right: 10px;
 }
 
 /*==================== SKILLS ====================*/
